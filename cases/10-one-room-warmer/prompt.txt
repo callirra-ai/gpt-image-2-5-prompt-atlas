@@ -1,0 +1,51 @@
+Image 1: the room — the sole authority for the architecture, the camera and the existing furniture. It supplies
+no new styling, no new objects and no new light.
+
+TASK
+Keep this room exactly as it is and make it warmer: change only the soft furnishings and add one lamp, so the
+same room reads as lived-in and inviting while remaining unmistakably the same room.
+
+PRESERVE EXACTLY — architecture, joinery and furniture
+- The window: same position, same size, same plain white frame, and the same glazing. It is a simple two-leaf
+  casement window with ONE horizontal glazing bar in each leaf, six panes in total. Do not convert it into a
+  multi-pane Georgian or sash window, do not add bars, do not add muntins, do not change the frame profile.
+- The door: same position, same swing, same plain FLAT door leaf with no panels and no mouldings, same simple
+  lever handle on the same side. Do not add raised panels, mouldings, glazing or a different handle.
+- The sofa: same position against the left wall, same size, same silhouette, same wooden feet. Its upholstery
+  stays the same grey woven fabric of the same mid-grey value — do not lighten it, do not re-colour it, do not
+  change it to linen or cream, do not change the weave.
+- Walls, skirting, ceiling line, both room corners, the socket on the right wall and the low scuff mark on the
+  left wall, all unchanged.
+- The camera: identical position, identical height, identical angle and identical lens. The result must align
+  with Image 1 edge to edge, with the ceiling line, both corners and the floor plane in the same places.
+- The pale grey carpet and the faint worn path in the middle of the room.
+
+CHANGE — only these five things
+- Add a large wool rug under the sofa and slightly in front of it: warm terracotta with a simple repeating
+  geometric border.
+- Replace the four grey cushions with four cushions in warm rust, ochre and cream linen, one slightly creased.
+  The sofa itself keeps its grey upholstery — only the loose cushions change.
+- Hang floor-length linen curtains in warm oatmeal on a slim black rod above the window, drawn open to both
+  sides so the window stays completely visible and no glass is covered.
+- Add one slim floor lamp with a cream linen shade standing in the near right corner, switched on.
+- Set a small stack of two books on the floor beside the sofa's near arm, on the rug.
+
+MATCH NATURALLY
+- The lamp adds a warm pool of light entering from the right; the window keeps its cool daylight from the left.
+  Both must be visible in the final frame and neither may cancel the other.
+- Every new object casts a soft-edged shadow, and each shadow agrees with both light sources: a soft shadow to
+  the right from the window, a second softer shadow away from the lamp.
+- Fabric must read as fabric: wool with visible fibre and a slightly flattened pile where the sofa legs press
+  into it, linen with a soft vertical fold and a hint of translucency at the curtain's leading edge.
+- The rug must follow the floor plane in the same perspective as the carpet beneath it.
+
+DO NOT
+- Do not restyle the joinery. The window stays a plain two-leaf casement, the door stays a plain flat leaf.
+- Do not re-colour, re-upholster or restyle the sofa in any way.
+- Do not move, resize or remove the window, the door, the walls, the skirting, the ceiling or the sofa.
+- Do not change the camera, the crop, the aspect ratio or the perspective. This is the same frame.
+- Do not add architectural elements: no second window, no built-in shelving, no new doorway, no wallpaper, no
+  picture rail, no coving.
+- Do not add people, pets, plants, artwork, a television, a coffee table, a sideboard or a fireplace.
+- Do not brighten or HDR the whole frame. The daylight stays flat and cool; only the lamp area gains warmth.
+- No text, no signage, no watermark.

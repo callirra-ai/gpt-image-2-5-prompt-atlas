@@ -1,0 +1,14 @@
+{
+  "kind": "verbatim",
+  "title": "Song Dynasty Social Media Feed",
+  "category": "UI/UX & Social Media",
+  "source": "https://cyberbara.com/gpt-image-prompt-library",
+  "reference_image": "https://raw.githubusercontent.com/ZeroLu/awesome-gpt-image/main/assets/opennana/song-dynasty-cyber-social-feed.jpg",
+  "slides": 1,
+  "model": "sunburst",
+  "aspect": "9:16",
+  "resolution": "4K",
+  "words": 152,
+  "placeholder_filled": null,
+  "note": "Prompt reproduced verbatim from the reference library. The generated frame is ours."
+}

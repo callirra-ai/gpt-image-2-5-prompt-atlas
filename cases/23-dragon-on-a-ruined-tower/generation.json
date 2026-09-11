@@ -1,0 +1,18 @@
+{
+  "case": "23-dragon-on-a-ruined-tower",
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "mode": "text-to-image",
+  "requested": {
+    "resolution": "4K",
+    "aspect_ratio": "16:9"
+  },
+  "task_id": "1127a7825844e30fad7fbf91b05d15bd",
+  "seconds": 43.3,
+  "prompt_file": "prompt.txt",
+  "prompt_sha256": "6107fa2d7c77dd28edbd8590f06a5e50c390317b26a4321eedc5f0ba5e506ce8",
+  "prompt_chars": 3532,
+  "reference_files": [],
+  "output_file": "output.png",
+  "output_bytes": 10061544,
+  "generated_at": "2026-09-10"
+}

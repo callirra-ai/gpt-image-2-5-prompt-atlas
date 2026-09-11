@@ -1,0 +1,14 @@
+{
+  "kind": "verbatim",
+  "title": "Pet Brand Collaboration Poster",
+  "category": "Image Editing & Style Transfer",
+  "source": "https://cyberbara.com/gpt-image-prompt-library",
+  "reference_image": "https://github.com/user-attachments/assets/7efff353-b76b-4986-9894-24823e630dd7",
+  "slides": 3,
+  "model": "sunburst",
+  "aspect": "3:4",
+  "resolution": "4K",
+  "words": 98,
+  "placeholder_filled": null,
+  "note": "Prompt reproduced verbatim from the reference library. The generated frame is ours."
+}

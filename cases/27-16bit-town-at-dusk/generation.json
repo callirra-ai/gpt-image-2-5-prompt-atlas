@@ -1,0 +1,18 @@
+{
+  "case": "27-16bit-town-at-dusk",
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "mode": "text-to-image",
+  "requested": {
+    "resolution": "2K",
+    "aspect_ratio": "16:9"
+  },
+  "task_id": "c9d48c8e77a3b3f234000e36687f7d79",
+  "seconds": 36.1,
+  "prompt_file": "prompt.txt",
+  "prompt_sha256": "ad32ca04776191186426cf0b754092086c8d673be76cbd78ba9d7ba10f2144ba",
+  "prompt_chars": 3667,
+  "reference_files": [],
+  "output_file": "output.png",
+  "output_bytes": 3938997,
+  "generated_at": "2026-09-10"
+}

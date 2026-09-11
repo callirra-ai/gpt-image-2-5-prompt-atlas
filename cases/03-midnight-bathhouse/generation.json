@@ -1,0 +1,15 @@
+{
+  "case": "03-midnight-bathhouse",
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "requested": {
+    "resolution": "4K",
+    "aspect_ratio": "3:2"
+  },
+  "task_id": "8b0566719e35d0f182db8cd14acdf46f",
+  "seconds": 42.6,
+  "prompt_sha256": "fb8e534d4a32b8c320ad4f8982bd3a7142d6b551b6662c3944b12f9899cf1b0d",
+  "prompt_chars": 2339,
+  "output_file": "output.png",
+  "output_bytes": 11555205,
+  "generated_at": "2026-09-10"
+}

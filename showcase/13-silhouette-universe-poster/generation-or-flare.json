@@ -1,0 +1,19 @@
+{
+  "case": "13-silhouette-universe-poster",
+  "provider": "openrouter",
+  "model": "openai/gpt-image-2.5-flare",
+  "requested": {
+    "aspect_ratio": "2:3",
+    "quality": "xhigh",
+    "n": 1
+  },
+  "quality": "xhigh",
+  "image_tokens": 2459,
+  "cost_usd": 0.07723,
+  "seconds": 26,
+  "prompt_sha256": "853249866828c3d2761a8489e73aeb69113b03166d062bd56824ea10ffc48751",
+  "prompt_chars": 3510,
+  "output_file": "or-flare.png",
+  "output_bytes": 3131503,
+  "generated_at": "2026-09-11"
+}

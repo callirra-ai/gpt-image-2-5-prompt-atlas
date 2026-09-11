@@ -1,0 +1,18 @@
+{
+  "case": "18-brutalist-library-at-dusk",
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "mode": "text-to-image",
+  "requested": {
+    "resolution": "4K",
+    "aspect_ratio": "21:9"
+  },
+  "task_id": "765aa642f22b6d786a149615d4d55338",
+  "seconds": 38.8,
+  "prompt_file": "prompt.txt",
+  "prompt_sha256": "41c8c4d76f10181912a455c165545e175e78ad81c48d073725b0e59789f97fbc",
+  "prompt_chars": 2867,
+  "reference_files": [],
+  "output_file": "output.png",
+  "output_bytes": 9443602,
+  "generated_at": "2026-09-10"
+}

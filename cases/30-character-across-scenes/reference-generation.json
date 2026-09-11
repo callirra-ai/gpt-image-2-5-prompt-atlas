@@ -1,0 +1,18 @@
+{
+  "case": "30-character-across-scenes",
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "mode": "text-to-image",
+  "requested": {
+    "resolution": "4K",
+    "aspect_ratio": "2:3"
+  },
+  "task_id": "63f2c7f396381b4a9b6ff00fc0ef568e",
+  "seconds": 40.9,
+  "prompt_file": "reference-prompt-3.txt",
+  "prompt_sha256": "6e27b3cccdceb9579d2ad195d06c4e042b97581bb54621314473876c50113ba7",
+  "prompt_chars": 1994,
+  "reference_files": [],
+  "output_file": "reference-3.png",
+  "output_bytes": 13607167,
+  "generated_at": "2026-09-10"
+}

@@ -1,0 +1,18 @@
+{
+  "case": "29-photo-to-watercolor",
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "mode": "text-to-image",
+  "requested": {
+    "resolution": "4K",
+    "aspect_ratio": "2:3"
+  },
+  "task_id": "e14c707ec0d9eaa8309027ef1de9d5ed",
+  "seconds": 39.8,
+  "prompt_file": "reference-prompt.txt",
+  "prompt_sha256": "09cdb30a5b56977b917e914cf00d3385c4845115474f99636593c9bef50ab842",
+  "prompt_chars": 2286,
+  "reference_files": [],
+  "output_file": "reference-1.png",
+  "output_bytes": 11822503,
+  "generated_at": "2026-09-10"
+}

@@ -1,0 +1,19 @@
+{
+  "case": "07-100-pixel-art-items-grid",
+  "provider": "openrouter",
+  "model": "openai/gpt-image-2.5-sunburst",
+  "requested": {
+    "aspect_ratio": "1:1",
+    "quality": "xhigh",
+    "n": 1
+  },
+  "quality": "xhigh",
+  "image_tokens": 3122,
+  "cost_usd": 0.093795,
+  "seconds": 63,
+  "prompt_sha256": "f68358d90c5ae02442970e6ba52596d02fbfa0e5b5f0037be8a212c344158d52",
+  "prompt_chars": 110,
+  "output_file": "or-sunburst.png",
+  "output_bytes": 1387184,
+  "generated_at": "2026-09-11"
+}

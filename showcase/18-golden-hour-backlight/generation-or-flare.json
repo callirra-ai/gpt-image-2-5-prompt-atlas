@@ -1,0 +1,19 @@
+{
+  "case": "18-golden-hour-backlight",
+  "provider": "openrouter",
+  "model": "openai/gpt-image-2.5-flare",
+  "requested": {
+    "aspect_ratio": "3:4",
+    "quality": "xhigh",
+    "n": 1
+  },
+  "quality": "xhigh",
+  "image_tokens": 2459,
+  "cost_usd": 0.074265,
+  "seconds": 24,
+  "prompt_sha256": "dd7dc9c13787d0aff9af6862c76d6a8ff5f1c4891f331cb5b1f7e73aedb17698",
+  "prompt_chars": 441,
+  "output_file": "or-flare.png",
+  "output_bytes": 2113080,
+  "generated_at": "2026-09-11"
+}

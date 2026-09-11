@@ -1,0 +1,15 @@
+{
+  "case": "01-citrus-under-pressure",
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "requested": {
+    "resolution": "4K",
+    "aspect_ratio": "3:4"
+  },
+  "task_id": "8fce040394d26c2ff1b4dda36e2c7f3e",
+  "seconds": 37.6,
+  "prompt_sha256": "9e2adaf4221f61f91e5c4bb7295b3303170aaab3041e85212dab186b46800162",
+  "prompt_chars": 2816,
+  "output_file": "output.png",
+  "output_bytes": 9567260,
+  "generated_at": "2026-09-10"
+}

@@ -1,0 +1,18 @@
+{
+  "case": "22-station-observation-deck",
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "mode": "text-to-image",
+  "requested": {
+    "resolution": "4K",
+    "aspect_ratio": "21:9"
+  },
+  "task_id": "4f793fb446c3d1074f68424a93b4dc6f",
+  "seconds": 35.2,
+  "prompt_file": "prompt.txt",
+  "prompt_sha256": "4edb59ac114d2dc4b5ce7edcab3a7faf42ab53014c805f14c18c16aa6865bba1",
+  "prompt_chars": 3684,
+  "reference_files": [],
+  "output_file": "output.png",
+  "output_bytes": 9081905,
+  "generated_at": "2026-09-10"
+}

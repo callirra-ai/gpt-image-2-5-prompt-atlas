@@ -1,0 +1,19 @@
+{
+  "case": "15-apple-park-keynote-crowd",
+  "provider": "openrouter",
+  "model": "openai/gpt-image-2.5-flare",
+  "requested": {
+    "aspect_ratio": "3:2",
+    "quality": "xhigh",
+    "n": 1
+  },
+  "quality": "xhigh",
+  "image_tokens": 2459,
+  "cost_usd": 0.073945,
+  "seconds": 24,
+  "prompt_sha256": "c50fe70e10f02d417e7229d229ead354e50ec2c0b633d0934304aa5816275797",
+  "prompt_chars": 128,
+  "output_file": "or-flare.png",
+  "output_bytes": 2158708,
+  "generated_at": "2026-09-11"
+}

@@ -1,0 +1,35 @@
+# Silhouette Universe Narrative Poster
+
+![A vertical narrative poster titled The Last Lighthouse Keeper, with a lighthouse forming a world silhouette](preview.jpg)
+
+A 494-word brief for a collector's-edition narrative poster: a lighthouse whose tower resolves into a complete world on second look and still rewards a third. Use it as the reference for how much instruction a poster prompt can carry — and as a template for your own.
+
+## Try the prompt
+
+```text
+Automatically generate a high-aesthetic "Silhouette Universe / Collector's Edition Narrative Poster" based on [theme: the last lighthouse keeper]. Do not default to common containers such as bottles, hourglasses, glass domes, or pocket watches. Instead, let the AI choose the most symbolic, visually strong, and narratively suitable outer silhouette for the theme. The silhouette can be an artifact, building, gate, tower, archway, dome, stairwell, corridor, statue, profile, eye, hand, skull, wing, mask, mirror, throne, ring, crack, light curtain, shadow, geometric form, spatial cross-section, stage frame, abstract symbol, or any more creative contour that best represents the theme. The goal is not to simply place a world inside an object, but to make the entire themed universe grow naturally within, around, and through the silhouette itself. The silhouette should be elegant, recognizable, and compositionally dominant. Inside or along its boundary, generate a rich and layered narrative world strongly tied to the theme, including iconic scenes, key architecture or spaces, symbols and metaphors, traces of characters or civilizations, foreground-midground-background depth, and atmosphere with emotional tension. Elements such as doors, staircases, bridges, water, smoke, paths, light sources, ruins, mechanical structures, landscapes, abstract forms, creatures, or props should all feel unified and organically integrated rather than pasted together. The final composition should feel like a premium collector's poster with strong design value. The large shapes should feel stable, the main silhouette should be unmistakable, and the inner world should have depth, structure, and breathing room. Details should be rich but not crowded. You may add small human silhouettes, distant buildings, beams of light, doorways, bridges, steps, corridors, reflections, skylight, or far-background structures to enhance scale, story, and epic atmosphere. The overall mood should be quiet, grand, refined, and lingering rather than noisy or overloaded. Blend the feeling of a collector's edition film poster, high-end narrative visual design, dreamy watercolor texture, and fine printed paper. Emphasize paper grain, feathered edges, watercolor brush marks, gentle diffusion, atmospheric perspective, soft haze, selective volumetric light, light passing through mist, generous negative space, and restrained layout. The image should feel premium, poetic, majestic, sacred, nostalgic, quiet, and mythic. Let the AI choose an elevated color palette based on the theme, but keep it unified, restrained, tasteful, low-saturation, and premium. Avoid chaotic high saturation, cheap neon effects, or plastic digital color. Suitable palette families may include black-gold-gray, cool blue-gray, mist white-gray, brown-red with off-white, dark copper, aged paper tones, deep sea blue, twilight purple, or silver-gray, as long as they serve the theme. Final requirement: the first glance should give strong theme recognition and a memorable silhouette, the second glance should reveal a complete narrative world, and the third glance should still reward close inspection with depth and aftertaste. Avoid generic backgrounds, hard cut-and-paste compositions, templated fantasy assets, video-game promo art vibes, excessive cartooning, or realism that kills the artistic mood. If appropriate, subtle titles, numbering, signatures, or marks can be added as part of the poster design, but they must never overpower the image.
+```
+
+[Copy plain text](prompt.txt) · [Full-size image](full.jpg)
+
+## Make it your own
+
+- **Fill the theme slot and mean it.** The source prompt is a template ending in `[theme: xxx]`. The theme has to be a *world*, not a subject: something with a top, a middle and a bottom.
+- **Read it as a specification, not a description.** The brief separates first-read, second-read and third-read content. That three-tier structure is what makes it survive on a wall.
+- **Keep the type instruction.** Title placement, a subtitle and a thin rule are what stop a beautiful illustration from being a poster.
+
+## Settings and result
+
+`openai/gpt-image-2.5-flare` · quality `xhigh` · 2:3 · **2459 image tokens** · 26 s · $0.0772
+
+**The longest prompt in this repository — 494 words — and the one with the highest ambition.** The result is a genuine poster: the lighthouse reads as a lighthouse at thumbnail size, and only at full size do you find the cliff, the water and the sky that the tower is actually made of.
+
+Included deliberately as the counterweight to case 5 (five words). Both are in the same library, work on the same model, and solve opposite problems: one gives the model everything, one gives it nothing.
+
+> **Source.** Prompt reproduced verbatim from the [GPT Image Prompt Library](https://cyberbara.com/gpt-image-prompt-library). The frame below was generated for this repository and is not the source image.
+
+---
+
+<!-- CTA_CASE -->
+
+[← Back to the gallery](../../README.md)

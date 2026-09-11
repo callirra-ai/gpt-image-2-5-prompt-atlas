@@ -1,0 +1,18 @@
+{
+  "case": "20-fintech-dashboard",
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "mode": "text-to-image",
+  "requested": {
+    "resolution": "4K",
+    "aspect_ratio": "16:9"
+  },
+  "task_id": "293d6f432acb44eb533208d59e160755",
+  "seconds": 38.4,
+  "prompt_file": "prompt.txt",
+  "prompt_sha256": "d093ffe5ecf6d879ebf0371df075f56049c0b9de360c46e6195a8b4fb659afc5",
+  "prompt_chars": 4516,
+  "reference_files": [],
+  "output_file": "output.png",
+  "output_bytes": 4443298,
+  "generated_at": "2026-09-10"
+}

@@ -1,0 +1,82 @@
+# Product on a New Background
+
+| Image 1 — product | Result |
+|---|---|
+| ![A jar of heather honey on a plain grey studio background](reference-1.jpg) | ![The same jar on a weathered oak board in a kitchen](preview.jpg) |
+
+Take a clean studio product shot and re-photograph the same product in a real setting, with the label still square to the camera and the light matched to the new room. Use it for e-commerce lifestyle images, seasonal campaign shots, and any catalogue where the same product has to appear in several environments.
+
+## Try the prompt
+
+```text
+Image 1: the product — the sole authority for the jar's form, its proportions, its glass thickness and base, its
+bronze knurled lid, the level and colour of the honey inside, the paper label, and every character printed on
+it. It supplies no setting, no camera and no lighting.
+
+TASK
+Keep the jar exactly as it is and re-photograph it on a weathered oak board in a kitchen, keeping the label
+square to the camera and fully legible.
+
+PRESERVE EXACTLY
+- The jar's geometry: squat proportions, wide shoulder, short neck, the thickness of the glass at the base, and
+  the lid's diameter relative to the body.
+- The lid: dark bronze, the fine knurled band around its edge, and its position squarely on the neck.
+- The contents: the same deep amber honey at the same level, with the same cloudy depth and the same
+  glass-to-honey edge visible in the shoulder.
+- The label: the same off-white uncoated paper, the same wrap and registration to the jar's vertical axis, the
+  same uneven cut edge, and the same text in the same places — "HEATHER HONEY" on the upper third in
+  wide-tracked uppercase serif, one thin horizontal rule below it, and "340 G" small and centred at the bottom.
+  Both strings must render once, crisply, and unobstructed.
+- The jar's silhouette. It must not be restyled, made taller, made into plastic, or given a different lid.
+
+THE NEW SETTING
+A worn oak board, its surface scarred and slightly uneven, running across the lower third of the frame. To the
+right of the jar, a folded unbleached linen cloth. To the left of the jar, lying flat on the board, one small
+sprig of dried heather. Behind, out of focus, a plain warm plaster wall.
+
+MATCH NATURALLY
+- Light direction: one window off-frame to the LEFT, so the jar is lit from the left. Its lit side is on the
+  left, its shadow falls to the right, and the linen cloth's fold shadows agree with the same direction.
+- Contact shadow: one soft-edged shadow beneath the base, short and to the right, denser where the base meets
+  the board and fading outward. The jar must sit on the board, not float above it.
+- Reflection: a faint reflection of the jar's base and lower body in the polished parts of the oak immediately
+  beneath it, weaker than the reflection of the jar in Image 1.
+- Glass behaviour: the same internal refraction and the same dark edge where the glass meets the surface below.
+- Colour temperature: the morning window light is warm and the shadows are cool, applied to the jar, the cloth
+  and the heather without changing the honey's own amber.
+- Scale: the jar remains the largest object in the frame, and the cloth and heather are both clearly smaller
+  than it.
+
+DO NOT
+- Do not redesign, restyle, recolour or reshape the jar, the lid or the label, and do not change a single
+  character on the label.
+- Do not add a second jar, a spoon, a dipper, toast, a knife, flowers, honeycomb, a bee, a cup or a hand.
+- Do not paste the jar flat: no outline, no cut-out edge, no uniform drop shadow, no missing contact shadow,
+  no flat colour fill, no ghost halo around the silhouette.
+- Do not apply a shadow or reflection that disagrees with the light coming from the left.
+- No text anywhere except the two label strings, no logo, no watermark.
+```
+
+The reference is generated for this case, so the whole recipe is reproducible — its prompt is in [`reference-prompt.txt`](reference-prompt.txt).
+
+[Copy plain text](prompt.txt) · [Full-size image](full.jpg)
+
+## Make it your own
+
+- **The label is the product.** Name every string on it and require both to render once, crisply and unobstructed. A honey jar with a wrong weight is a rejected asset, no matter how good the oak board looks.
+- **Name the new light's direction before you describe the new setting.** One window off-frame to the left, shadow to the right, fold shadows agreeing. Getting this line right is most of the difference between a photograph and a composite.
+- **Keep the scale relationships.** The jar largest, the cloth and the heather clearly smaller. Without that instruction the props grow and the product stops being the subject.
+
+## Settings and result
+
+`gpt-image-2.5-sunburst` · 4K requested · 1:1 · **2880 × 2880 px** · 50.6 s · reference uploaded and passed in order
+
+The jar came through unchanged: the squat proportions, the wide shoulder and short neck, the thick glass at the base, the dark bronze lid with its knurled band, the deep amber honey at the same level with the same cloudy depth, and the off-white paper label with its uneven cut edge. **Both label strings rendered correctly and once each — `HEATHER HONEY` on the upper third and `340 G` centred at the bottom, with the thin rule between them** — which is the requirement this kind of case lives or dies on.
+
+The new setting holds together: the scarred oak board, the folded linen cloth to the right, the single sprig of dried heather laid flat to the left, and a warm plaster wall falling out of focus behind. The window light comes from the left, so the jar's lit side is on the left, its contact shadow falls to the right and is denser where the base meets the board, and there is a faint reflection of the jar in the polished oak beneath it. The jar remains the largest object in the frame.
+
+---
+
+<!-- CTA_CASE -->
+
+[← Back to the gallery](../../README.md)

@@ -1,0 +1,15 @@
+{
+  "case": "09-lunar-courier-character-sheet",
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "requested": {
+    "resolution": "4K",
+    "aspect_ratio": "3:2"
+  },
+  "task_id": "b034ca1f608f77e55e74007f7b12098a",
+  "seconds": 43.4,
+  "prompt_sha256": "81d6dab8131a27eff8efce66b3a6b62185a87a9f262c3bb62c79045a8085c8a2",
+  "prompt_chars": 3824,
+  "output_file": "output.png",
+  "output_bytes": 9965924,
+  "generated_at": "2026-09-10"
+}

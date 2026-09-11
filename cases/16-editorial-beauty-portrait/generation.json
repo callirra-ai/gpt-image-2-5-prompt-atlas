@@ -1,0 +1,18 @@
+{
+  "case": "16-editorial-beauty-portrait",
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "mode": "text-to-image",
+  "requested": {
+    "resolution": "4K",
+    "aspect_ratio": "2:3"
+  },
+  "task_id": "2e3486d10232edc1f05a2a15014dda4e",
+  "seconds": 40,
+  "prompt_file": "prompt.txt",
+  "prompt_sha256": "62eca80fab6a64f8a15aaf6cac30cd5a6df590079856c3436fad5eeba82d2f54",
+  "prompt_chars": 3633,
+  "reference_files": [],
+  "output_file": "output.png",
+  "output_bytes": 10837912,
+  "generated_at": "2026-09-10"
+}

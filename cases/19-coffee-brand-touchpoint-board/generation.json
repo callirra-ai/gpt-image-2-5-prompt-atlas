@@ -1,0 +1,18 @@
+{
+  "case": "19-coffee-brand-touchpoint-board",
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "mode": "text-to-image",
+  "requested": {
+    "resolution": "4K",
+    "aspect_ratio": "1:1"
+  },
+  "task_id": "db7a3d9e33717a9b4f1ac25d021d83cc",
+  "seconds": 50.9,
+  "prompt_file": "prompt.txt",
+  "prompt_sha256": "699acf7515893f378619f6070984ed0d329b154d921c1a40ae2587e07448dc85",
+  "prompt_chars": 4000,
+  "reference_files": [],
+  "output_file": "output.png",
+  "output_bytes": 13444727,
+  "generated_at": "2026-09-10"
+}

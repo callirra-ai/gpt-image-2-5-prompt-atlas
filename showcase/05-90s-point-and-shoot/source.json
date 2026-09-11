@@ -1,0 +1,14 @@
+{
+  "kind": "verbatim",
+  "title": "90s Point-and-Shoot Aesthetic",
+  "category": "Photography & Photorealism",
+  "source": "https://cyberbara.com/gpt-image-prompt-library",
+  "reference_image": "https://pbs.twimg.com/media/HGlDZasaMAAtLeg?format=jpg&amp;name=large",
+  "slides": 4,
+  "model": "flare",
+  "aspect": "3:2",
+  "resolution": "4K",
+  "words": 5,
+  "placeholder_filled": null,
+  "note": "Prompt reproduced verbatim from the reference library. The generated frame is ours."
+}

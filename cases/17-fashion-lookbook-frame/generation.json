@@ -1,0 +1,18 @@
+{
+  "case": "17-fashion-lookbook-frame",
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "mode": "text-to-image",
+  "requested": {
+    "resolution": "4K",
+    "aspect_ratio": "3:4"
+  },
+  "task_id": "e0ed61bd0c1aeac6c7d51877a8c42d0c",
+  "seconds": 37.6,
+  "prompt_file": "prompt.txt",
+  "prompt_sha256": "39539a14f402b92c7ffc1368fd7be4b744060a79f53946d513d1099732ff01bb",
+  "prompt_chars": 3221,
+  "reference_files": [],
+  "output_file": "output.png",
+  "output_bytes": 11769243,
+  "generated_at": "2026-09-10"
+}

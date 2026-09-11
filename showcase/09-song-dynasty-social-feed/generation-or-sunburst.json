@@ -1,0 +1,19 @@
+{
+  "case": "09-song-dynasty-social-feed",
+  "provider": "openrouter",
+  "model": "openai/gpt-image-2.5-sunburst",
+  "requested": {
+    "aspect_ratio": "9:16",
+    "quality": "xhigh",
+    "n": 1
+  },
+  "quality": "xhigh",
+  "image_tokens": 2459,
+  "cost_usd": 0.07488,
+  "seconds": 50,
+  "prompt_sha256": "0ba72248c28efe4621c6bb544312cac765dbc557eb63a2320cbd8659f0cfc1a4",
+  "prompt_chars": 976,
+  "output_file": "or-sunburst.png",
+  "output_bytes": 2172501,
+  "generated_at": "2026-09-11"
+}

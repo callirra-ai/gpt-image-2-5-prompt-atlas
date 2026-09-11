@@ -1,0 +1,15 @@
+{
+  "case": "02-after-hours-jazz-poster",
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "requested": {
+    "resolution": "4K",
+    "aspect_ratio": "2:3"
+  },
+  "task_id": "16acdcaa762c6acbec2dbaac3b22d1b5",
+  "seconds": 37.2,
+  "prompt_sha256": "458ec767360c599f8390f91f27d6ffd04315fb6e237c1aa418420a281d0c32cb",
+  "prompt_chars": 2222,
+  "output_file": "output.png",
+  "output_bytes": 14467825,
+  "generated_at": "2026-09-10"
+}

@@ -1,0 +1,19 @@
+{
+  "kind": "verbatim-adapted",
+  "title": "Live Streaming Screenshot",
+  "category": "UI/UX & Social Media",
+  "source": "https://cyberbara.com/gpt-image-prompt-library",
+  "reference_image": "https://github.com/user-attachments/assets/be639d3b-617b-4332-98eb-4deb2484ac66",
+  "slides": 1,
+  "model": "sunburst",
+  "aspect": "9:16",
+  "resolution": "4K",
+  "words": 13,
+  "placeholder_filled": null,
+  "note": "Prompt reproduced verbatim from the reference library. The generated frame is ours.",
+  "adaptation": {
+    "original": "Generate a screenshot of a TikTok live stream featuring a beautiful woman streaming.",
+    "adapted": "Generate a screenshot of a TikTok live stream featuring a woman streaming.",
+    "reason": "OpenAI's safety system rejected the original wording via OpenRouter (safety_violations=[sexual]); the adjective was removed to let the card exist at all."
+  }
+}

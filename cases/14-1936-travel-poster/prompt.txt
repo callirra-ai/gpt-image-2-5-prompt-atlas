@@ -1,0 +1,37 @@
+A 1936 travel poster, 2:3 portrait, designed as a four-colour silkscreen print on aged poster stock and seen
+perfectly flat and straight on — this is the printed sheet, not a photograph of one on a wall.
+
+COMPOSITION
+A steep mountain valley seen head-on, arranged in three flat bands. The lower band is the valley floor, a single
+flat dark green. Above it, a tall viaduct crosses the full width on five arches, drawn as one flat ochre shape
+with the arches cut out as negative space. On the viaduct, a passenger train in profile running left to right:
+locomotive, tender and four carriages, reduced to their simplest readable silhouettes with no interior detail
+and no visible windows, only a row of small rectangles along the carriages. Behind and above the viaduct, three
+peaks rise in two flat blues, the nearer one darker. The sky is the paper colour left bare, with two long
+horizontal clouds as single flat shapes. Vertical composition: the train sits on the upper third, the valley
+floor occupies the lower quarter, and the peaks fill the space between.
+
+TEXT — render exactly these two strings, each appearing once
+"A LOWER LINE"
+"1936"
+Set "A LOWER LINE" in a bold geometric sans, all capitals, generously letter-spaced, centred in the band of
+sky below the peaks; its width is about two thirds of the sheet's width. Set "1936" much smaller in the same
+typeface, centred directly beneath it, at about one sixth of the title's height. No other text anywhere: no
+route names, no station names, no prices, no small print, no printer's marks.
+
+PRINT CHARACTER — deliberately imperfect
+Four flat inks only: ochre, deep green, two blues, plus the paper. Each colour sits in its own solid shape with
+hard edges and no gradients, no shading and no halftones. Registration is very slightly out on one or two
+plates, so a thin sliver of paper shows along the left edge of the train's ochre and along the top edge of one
+blue peak — under one millimetre and never enough to look broken. Ink is slightly uneven within a shape where
+the screen was thin, with fine horizontal streaks visible in the largest flat areas. The paper is aged: a warm
+off-white with light foxing at the corners, two soft handling creases running diagonally across the lower left,
+a small water stain at the upper right that has very slightly lifted the blue, and a tiny nibbled loss at the
+bottom edge. Four pinholes, one in each corner, sit just inside the margin.
+
+CONSTRAINTS
+No illustration style other than flat silkscreen: no painterly edges, no airbrush, no glow, no photo texture,
+no 3D shading, no drop shadows. Do not add people, birds, trees with individual leaves, rocks, rivers, road
+signs or a border. Do not paraphrase, re-case, hyphenate or translate the two strings, and do not add a
+year, a place name or a slogan. No mockup: no wall, no frame, no shadow behind the sheet, no perspective tilt,
+no tape or pins other than the four pinholes.

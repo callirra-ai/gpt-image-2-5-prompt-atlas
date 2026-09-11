@@ -1,0 +1,19 @@
+{
+  "case": "10-wechat-chat-smartphone-photo",
+  "provider": "openrouter",
+  "model": "openai/gpt-image-2.5-sunburst",
+  "requested": {
+    "aspect_ratio": "3:4",
+    "quality": "xhigh",
+    "n": 1
+  },
+  "quality": "xhigh",
+  "image_tokens": 2459,
+  "cost_usd": 0.074485,
+  "seconds": 48,
+  "prompt_sha256": "766f91ce1278fa07234cd20529003a924c9a4f0780dfcfd99e15ccd88418a517",
+  "prompt_chars": 680,
+  "output_file": "or-sunburst.png",
+  "output_bytes": 2244449,
+  "generated_at": "2026-09-11"
+}

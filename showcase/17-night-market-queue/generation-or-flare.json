@@ -1,0 +1,19 @@
+{
+  "case": "17-night-market-queue",
+  "provider": "openrouter",
+  "model": "openai/gpt-image-2.5-flare",
+  "requested": {
+    "aspect_ratio": "3:2",
+    "quality": "xhigh",
+    "n": 1
+  },
+  "quality": "xhigh",
+  "image_tokens": 2459,
+  "cost_usd": 0.0743,
+  "seconds": 27,
+  "prompt_sha256": "69e3312865eb4b7e27b9ae0c826aaecd2c288948fa68917e8b04b0ba891f3e9b",
+  "prompt_chars": 485,
+  "output_file": "or-flare.png",
+  "output_bytes": 2483740,
+  "generated_at": "2026-09-11"
+}

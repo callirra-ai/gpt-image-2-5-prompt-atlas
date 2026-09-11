@@ -1,0 +1,15 @@
+{
+  "kind": "verbatim",
+  "title": "360 Equirectangular Panorama",
+  "category": "Photography & Photorealism",
+  "source": "https://cyberbara.com/gpt-image-prompt-library",
+  "reference_image": "https://pbs.twimg.com/amplify_video_thumb/2046725535439482880/img/v9e7898p1ynJv-xz.jpg",
+  "slides": 1,
+  "model": "flare",
+  "aspect": "21:9",
+  "resolution": "4K",
+  "words": 5,
+  "placeholder_filled": "a slot canyon in Arizona at noon, sunbeams falling through the narrow opening",
+  "note": "Prompt reproduced verbatim from the reference library. The generated frame is ours.",
+  "aspect_note": "OpenRouter's GPT Image 2.5 rejects aspect_ratio 2:1 (the true equirectangular ratio); 21:9 is the widest it accepts."
+}

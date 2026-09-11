@@ -1,0 +1,217 @@
+[
+  {
+    "n": 1,
+    "name": "01-convenience-store-night-scene",
+    "title": "Convenience Store Night Scene",
+    "category": "Photography & Photorealism",
+    "kind": "verbatim",
+    "model": "flare",
+    "aspect": "3:2",
+    "words": 145,
+    "slides": 2
+  },
+  {
+    "n": 2,
+    "name": "02-raw-iphone-subway-station",
+    "title": "RAW iPhone Quality - Subway Station",
+    "category": "Photography & Photorealism",
+    "kind": "verbatim",
+    "model": "flare",
+    "aspect": "3:2",
+    "words": 38,
+    "slides": 2
+  },
+  {
+    "n": 3,
+    "name": "03-rice-grain-micro-typography",
+    "title": "Rice Grain Micro Typography",
+    "category": "Photography & Photorealism",
+    "kind": "verbatim",
+    "model": "sunburst",
+    "aspect": "1:1",
+    "words": 19,
+    "slides": 1
+  },
+  {
+    "n": 4,
+    "name": "04-360-equirectangular-panorama",
+    "title": "360 Equirectangular Panorama",
+    "category": "Photography & Photorealism",
+    "kind": "verbatim",
+    "model": "flare",
+    "aspect": "21:9",
+    "words": 5,
+    "slides": 1
+  },
+  {
+    "n": 5,
+    "name": "05-90s-point-and-shoot",
+    "title": "90s Point-and-Shoot Aesthetic",
+    "category": "Photography & Photorealism",
+    "kind": "verbatim",
+    "model": "flare",
+    "aspect": "3:2",
+    "words": 5,
+    "slides": 4
+  },
+  {
+    "n": 6,
+    "name": "06-gta6-style-in-game-footage",
+    "title": "GTA 6 Style In-Game Footage",
+    "category": "Game & Entertainment",
+    "kind": "verbatim",
+    "model": "flare",
+    "aspect": "16:9",
+    "words": 47,
+    "slides": 2
+  },
+  {
+    "n": 7,
+    "name": "07-100-pixel-art-items-grid",
+    "title": "100 Pixel Art Items Grid",
+    "category": "Game & Entertainment",
+    "kind": "verbatim",
+    "model": "sunburst",
+    "aspect": "1:1",
+    "words": 19,
+    "slides": 1
+  },
+  {
+    "n": 8,
+    "name": "08-live-streaming-screenshot",
+    "title": "Live Streaming Screenshot",
+    "category": "UI/UX & Social Media",
+    "kind": "verbatim",
+    "model": "sunburst",
+    "aspect": "9:16",
+    "words": 13,
+    "slides": 1
+  },
+  {
+    "n": 9,
+    "name": "09-song-dynasty-social-feed",
+    "title": "Song Dynasty Social Media Feed",
+    "category": "UI/UX & Social Media",
+    "kind": "verbatim",
+    "model": "sunburst",
+    "aspect": "9:16",
+    "words": 152,
+    "slides": 1
+  },
+  {
+    "n": 10,
+    "name": "10-wechat-chat-smartphone-photo",
+    "title": "WeChat Chat Interface Smartphone Photo",
+    "category": "UI/UX & Social Media",
+    "kind": "verbatim",
+    "model": "sunburst",
+    "aspect": "3:4",
+    "words": 107,
+    "slides": 1
+  },
+  {
+    "n": 11,
+    "name": "11-pet-brand-collaboration",
+    "title": "Pet Brand Collaboration Poster",
+    "category": "Image Editing & Style Transfer",
+    "kind": "verbatim",
+    "model": "sunburst",
+    "aspect": "3:4",
+    "words": 98,
+    "slides": 3
+  },
+  {
+    "n": 12,
+    "name": "12-world-time-clock-wall",
+    "title": "World Time Analog Clock Wall",
+    "category": "Infographics, Education & Documents",
+    "kind": "verbatim",
+    "model": "sunburst",
+    "aspect": "3:2",
+    "words": 50,
+    "slides": 1
+  },
+  {
+    "n": 13,
+    "name": "13-silhouette-universe-poster",
+    "title": "Silhouette Universe Narrative Poster",
+    "category": "Typography & Poster Design",
+    "kind": "verbatim",
+    "model": "flare",
+    "aspect": "2:3",
+    "words": 494,
+    "slides": 4
+  },
+  {
+    "n": 14,
+    "name": "14-celebrity-in-real-life",
+    "title": "Celebrity in real life",
+    "category": "Photography & Photorealism",
+    "kind": "verbatim",
+    "model": "flare",
+    "aspect": "3:2",
+    "words": 16,
+    "slides": 1
+  },
+  {
+    "n": 15,
+    "name": "15-apple-park-keynote-crowd",
+    "title": "Apple Park Keynote Crowd Shot",
+    "category": "Photography & Photorealism",
+    "kind": "verbatim",
+    "model": "flare",
+    "aspect": "3:2",
+    "words": 23,
+    "slides": 1
+  },
+  {
+    "n": 16,
+    "name": "16-direct-flash-night-portrait",
+    "title": "Direct Flash Night Portrait",
+    "category": "Photography",
+    "kind": "original",
+    "model": "flare",
+    "aspect": "3:4",
+    "words": 117
+  },
+  {
+    "n": 17,
+    "name": "17-night-market-queue",
+    "title": "Night Market Queue",
+    "category": "Photography",
+    "kind": "original",
+    "model": "flare",
+    "aspect": "3:2",
+    "words": 81
+  },
+  {
+    "n": 18,
+    "name": "18-golden-hour-backlight",
+    "title": "Golden Hour Backlight",
+    "category": "Photography",
+    "kind": "original",
+    "model": "flare",
+    "aspect": "3:4",
+    "words": 72
+  },
+  {
+    "n": 19,
+    "name": "19-retro-racing-replay",
+    "title": "Retro Racing Game Replay",
+    "category": "Game",
+    "kind": "original",
+    "model": "sunburst",
+    "aspect": "16:9",
+    "words": 109
+  },
+  {
+    "n": 20,
+    "name": "20-isometric-dungeon-key-art",
+    "title": "Isometric Dungeon Key Art",
+    "category": "Game",
+    "kind": "original",
+    "model": "sunburst",
+    "aspect": "4:3",
+    "words": 131
+  }
+]

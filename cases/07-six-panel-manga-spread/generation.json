@@ -1,0 +1,15 @@
+{
+  "case": "07-six-panel-manga-spread",
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "requested": {
+    "resolution": "4K",
+    "aspect_ratio": "3:2"
+  },
+  "task_id": "01ca97ff1306706afc7e6ce7a8e9f7f7",
+  "seconds": 47.4,
+  "prompt_sha256": "e0b2e11deab2ac9f134ddbf044b0c2edad8b06e048ac78fafd68ea0c64972448",
+  "prompt_chars": 2966,
+  "output_file": "output.png",
+  "output_bytes": 16420009,
+  "generated_at": "2026-09-10"
+}

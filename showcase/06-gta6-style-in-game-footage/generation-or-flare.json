@@ -1,0 +1,19 @@
+{
+  "case": "06-gta6-style-in-game-footage",
+  "provider": "openrouter",
+  "model": "openai/gpt-image-2.5-flare",
+  "requested": {
+    "aspect_ratio": "16:9",
+    "quality": "xhigh",
+    "n": 1
+  },
+  "quality": "xhigh",
+  "image_tokens": 2459,
+  "cost_usd": 0.07414,
+  "seconds": 24,
+  "prompt_sha256": "2142c7a2abccd361a3a110252567994dcf905dccc8c391c16b87fec58b14d734",
+  "prompt_chars": 285,
+  "output_file": "or-flare.png",
+  "output_bytes": 2080736,
+  "generated_at": "2026-09-11"
+}

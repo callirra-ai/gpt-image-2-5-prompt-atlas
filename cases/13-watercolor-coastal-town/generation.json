@@ -1,0 +1,18 @@
+{
+  "case": "13-watercolor-coastal-town",
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "mode": "text-to-image",
+  "requested": {
+    "resolution": "2K",
+    "aspect_ratio": "3:2"
+  },
+  "task_id": "6a41844c0cb1188dbbefd9ce7a49ec69",
+  "seconds": 37.9,
+  "prompt_file": "prompt.txt",
+  "prompt_sha256": "29612fda03e3264e33fa0f5df71636a5dd2fdfbe422276165924c9d7a4a304e7",
+  "prompt_chars": 2498,
+  "reference_files": [],
+  "output_file": "output.png",
+  "output_bytes": 8089592,
+  "generated_at": "2026-09-10"
+}

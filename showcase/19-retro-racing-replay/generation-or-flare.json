@@ -1,0 +1,19 @@
+{
+  "case": "19-retro-racing-replay",
+  "provider": "openrouter",
+  "model": "openai/gpt-image-2.5-flare",
+  "requested": {
+    "aspect_ratio": "16:9",
+    "quality": "xhigh",
+    "n": 1
+  },
+  "quality": "xhigh",
+  "image_tokens": 2459,
+  "cost_usd": 0.074635,
+  "seconds": 26,
+  "prompt_sha256": "13c97a53026248a2db424e095390467a7f5fb6c1a392045818f1bb006f41b537",
+  "prompt_chars": 661,
+  "output_file": "or-flare.png",
+  "output_bytes": 1795780,
+  "generated_at": "2026-09-11"
+}

@@ -1,0 +1,15 @@
+{
+  "case": "08-isometric-bookshop-cutaway",
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "requested": {
+    "resolution": "4K",
+    "aspect_ratio": "1:1"
+  },
+  "task_id": "ef36c586f17758e68994cb85bab4b95d",
+  "seconds": 52,
+  "prompt_sha256": "5ad0ed169d36c41fd70af61b0c56a10b81f9aac4aedb310760005cb52a87865c",
+  "prompt_chars": 3197,
+  "output_file": "output.png",
+  "output_bytes": 13177598,
+  "generated_at": "2026-09-10"
+}

@@ -1,0 +1,18 @@
+{
+  "case": "28-product-on-a-new-background",
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "mode": "text-to-image",
+  "requested": {
+    "resolution": "4K",
+    "aspect_ratio": "1:1"
+  },
+  "task_id": "d0591f45fd1080d91d363e4b8c5e5bd0",
+  "seconds": 43.7,
+  "prompt_file": "reference-prompt.txt",
+  "prompt_sha256": "8c1ab3564a02e267113e2732b035d252ac66fd9d5fb19547f746be3822fca2ee",
+  "prompt_chars": 2277,
+  "reference_files": [],
+  "output_file": "reference-1.png",
+  "output_bytes": 9468240,
+  "generated_at": "2026-09-10"
+}

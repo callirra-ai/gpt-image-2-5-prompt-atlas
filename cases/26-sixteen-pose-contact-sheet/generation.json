@@ -1,0 +1,18 @@
+{
+  "case": "26-sixteen-pose-contact-sheet",
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "mode": "text-to-image",
+  "requested": {
+    "resolution": "4K",
+    "aspect_ratio": "1:1"
+  },
+  "task_id": "2b0204aad1b79442d3345bdce96abd2f",
+  "seconds": 39.9,
+  "prompt_file": "prompt.txt",
+  "prompt_sha256": "15a68a5735bb0bc9dea8ec451d15a883e1fc05099bbc03f70b0c7ce7bd534f01",
+  "prompt_chars": 3774,
+  "reference_files": [],
+  "output_file": "output.png",
+  "output_bytes": 6945250,
+  "generated_at": "2026-09-10"
+}

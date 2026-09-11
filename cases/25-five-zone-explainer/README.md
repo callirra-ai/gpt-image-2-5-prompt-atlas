@@ -1,0 +1,97 @@
+# Five-Zone Explainer
+
+![A fixed-zone infographic explaining how a hydroelectric dam works, with diagram, callouts, process strip and legend](preview.jpg)
+
+A five-zone explainer infographic on how a hydroelectric dam works: title band, cutaway diagram, three numbered callouts with leaders, a four-step process strip and a legend, each in its own declared region. Use it for editorial explainers, education material, pitch decks and any infographic that has to stay organised at every size.
+
+## Try the prompt
+
+```text
+A fixed-zone explainer infographic, 4:3 landscape, titled "How a Hydroelectric Dam Works", drawn as flat vector
+art with no photograph, no 3D render and no perspective beyond the cutaway.
+
+ZONE 1 — TITLE BAND, top 12% of the frame height
+The title "HOW A HYDROELECTRIC DAM WORKS" set left aligned in a bold condensed sans, all capitals, with the
+subtitle "From falling water to your light switch" beneath it in a lighter weight at roughly a third of the
+title's size. A single hairline rule closes the band across the full width.
+
+ZONE 2 — MAIN DIAGRAM, left 62% of the width, from below the title band down to the process strip
+A cutaway cross-section of a concrete gravity dam seen from the side, with the reservoir behind it on the left
+and the river valley below on the right. Within this zone:
+- The reservoir: a large body of water filling the left third, its surface a flat pale blue, with a shoreline
+  of rock and pine trees along its upper edge.
+- The dam wall: a massive grey concrete wedge, widest at the base, with visible horizontal construction
+  joints. Its crest carries a low parapet and a gantry crane on rails.
+- The intake: a rectangular opening in the dam's upstream face just below the waterline, with a trash rack of
+  vertical bars across it and a steel gate above it.
+- The penstock: a thick steel pipe running down through the body of the dam at a steep angle, drawn in
+  section so its wall thickness reads, ending at the turbine below.
+- The powerhouse: a rectangular hall cut into the base of the dam on the downstream side, containing a
+  vertical turbine and, directly above it on the same shaft, a cylindrical generator.
+- The draft tube: a curved widening passage carrying water away from the turbine out into the river.
+- The switchyard: two transformers and a row of insulators on a flat platform beside the powerhouse, with
+  three transmission pylons stepping away to the right.
+- The spillway: a separate overflow channel at the dam crest on the right, dry, with a stepped chute.
+Water direction is shown by five small white arrows: into the intake, down the penstock, through the turbine,
+out of the draft tube and away downstream.
+
+ZONE 3 — CALLOUT COLUMN, right 34% of the width, beside the diagram
+Three stacked panels of equal height, each with a coloured circular number badge at its top left, one line of
+bold label text, and two lines of smaller explanatory text beneath. A thin leader line runs from each badge to
+its element in the diagram, and no leader crosses another.
+
+ZONE 4 — PROCESS STRIP, bottom 16% of the frame height, full width beneath both columns
+Four equal boxes in a row, each with a coloured square icon at its left and one short label to the right of it,
+joined by three right-pointing chevrons between the boxes.
+
+ZONE 5 — LEGEND, bottom right corner, inside the process strip's row
+Three legend entries stacked vertically, each with a short coloured line sample at the left and one short label
+beside it.
+
+EXACT VISIBLE TEXT — render exactly these strings, once each
+- Title: "HOW A HYDROELECTRIC DAM WORKS"
+- Subtitle: "From falling water to your light switch"
+- Callout 1 label: "RESERVOIR" and its text: "Water is stored at height, holding potential energy."
+- Callout 2 label: "PENSTOCK" and its text: "The pipe converts that height into pressure and speed."
+- Callout 3 label: "TURBINE" and its text: "Moving water spins the turbine and the generator above it."
+- Process boxes, left to right: "Store" / "Release" / "Spin" / "Generate"
+- Legend entries, top to bottom: "Water" / "Concrete" / "Electricity"
+No other text anywhere: no units, no measurements, no capacity figures, no equations, no logos, no watermark.
+
+STYLE
+Flat vector illustration: solid fills, uniform hairline outlines, no gradients, no drop shadows, no texture.
+Background flat white. Palette: concrete grey, water blue, a warm amber for electricity, and one accent colour
+used only on the three number badges and the three chevrons. One neutral sans throughout, in exactly four
+sizes: title, subtitle, labels, and explanatory text.
+
+CONSTRAINTS
+Exactly three callouts, exactly four process boxes, exactly three legend entries, exactly five direction
+arrows, exactly three pylons. Every leader line must end on the element it names and must not cross another
+leader, a callout panel or any part of the diagram. Do not add a second dam, a fish ladder, a boat, a person,
+a bird, a road or a town. Do not put text on any part of the diagram itself. Do not use 3D shading, isometric
+projection or perspective.
+```
+
+[Copy plain text](prompt.txt) · [Full-size image](full.jpg)
+
+## Make it your own
+
+- **Fix the zones in percentages before you describe anything.** Title band 12% of the height, diagram 62% of the width, callouts 34%, process strip 16%. An infographic that has not been given regions will arrange itself, and it will arrange itself badly.
+- **One leader per callout, and say they may not cross.** Three leaders from three badges to three named elements, none crossing another. That single line is what keeps a diagram readable at small sizes.
+- **Count everything that can be counted.** Three callouts, four process boxes, three legend entries, five arrows, three pylons. Every stated count is a check you can run on the finished image in ten seconds.
+
+## Settings and result
+
+`gpt-image-2.5-sunburst` · 2K requested · 4:3 · **2368 × 1776 px** · 42.9 s
+
+All five zones are present and separate. The title band carries `HOW A HYDROELECTRIC DAM WORKS` with its subtitle and a hairline rule closing it. The diagram contains the reservoir with its rocky shoreline and pines, the concrete gravity wedge with horizontal construction joints, the crest with parapet and gantry crane, the intake with its trash rack of vertical bars, the penstock drawn in section, the powerhouse with the turbine and the generator above it on the same shaft, the draft tube, the switchyard with its transformers and three pylons stepping away, and the dry stepped spillway.
+
+All three callouts rendered their text verbatim — `RESERVOIR` with "Water is stored at height, holding potential energy.", `PENSTOCK` with "The pipe converts that height into pressure and speed.", `TURBINE` with "Moving water spins the turbine and the generator above it." — each with its own leader to the right element, and none of the leaders crossing. The process strip carries all four boxes with their icons and `Store` / `Release` / `Spin` / `Generate` with three chevrons between them, and the legend reads `Water`, `Concrete` and `Electricity`.
+
+One honest shortfall: four of the five direction arrows are clearly readable — at the intake, down the penstock, through the turbine and out through the draft tube — but the fifth, indicating flow away downstream, is not clearly distinguishable from the draft tube arrow. If the arrow count matters, number the arrows or move the downstream one further right.
+
+---
+
+<!-- CTA_CASE -->
+
+[← Back to the gallery](../../README.md)

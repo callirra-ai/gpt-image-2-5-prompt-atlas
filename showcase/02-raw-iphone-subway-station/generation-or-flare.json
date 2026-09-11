@@ -1,0 +1,19 @@
+{
+  "case": "02-raw-iphone-subway-station",
+  "provider": "openrouter",
+  "model": "openai/gpt-image-2.5-flare",
+  "requested": {
+    "aspect_ratio": "3:2",
+    "quality": "xhigh",
+    "n": 1
+  },
+  "quality": "xhigh",
+  "image_tokens": 2459,
+  "cost_usd": 0.07405,
+  "seconds": 32,
+  "prompt_sha256": "3366bd4716ad66c88bcce7f25ee5c6ce9fdc74aebf7486a71f9400677a19e532",
+  "prompt_chars": 220,
+  "output_file": "or-flare.png",
+  "output_bytes": 1897696,
+  "generated_at": "2026-09-10"
+}

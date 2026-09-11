@@ -1,0 +1,18 @@
+{
+  "case": "15-irezumi-flash-sheet",
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "mode": "text-to-image",
+  "requested": {
+    "resolution": "4K",
+    "aspect_ratio": "3:4"
+  },
+  "task_id": "81a05dec8423b324f7ed5b683bad8964",
+  "seconds": 45.1,
+  "prompt_file": "prompt.txt",
+  "prompt_sha256": "aa27f7f3164cebbd69a6867f86432c96645002ce4d4c5cf72a8b69883a818d1a",
+  "prompt_chars": 2936,
+  "reference_files": [],
+  "output_file": "output.png",
+  "output_bytes": 14380138,
+  "generated_at": "2026-09-10"
+}

@@ -1,0 +1,19 @@
+{
+  "case": "14-celebrity-in-real-life",
+  "provider": "openrouter",
+  "model": "openai/gpt-image-2.5-flare",
+  "requested": {
+    "aspect_ratio": "3:2",
+    "quality": "xhigh",
+    "n": 1
+  },
+  "quality": "xhigh",
+  "image_tokens": 2459,
+  "cost_usd": 0.073895,
+  "seconds": 27,
+  "prompt_sha256": "3592f7bfd9bead5f2bb730dc71927df9b68467fd9570d1e4330980e1dda35938",
+  "prompt_chars": 90,
+  "output_file": "or-flare.png",
+  "output_bytes": 2171069,
+  "generated_at": "2026-09-11"
+}

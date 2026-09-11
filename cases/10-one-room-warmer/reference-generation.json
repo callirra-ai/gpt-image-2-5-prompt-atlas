@@ -1,0 +1,18 @@
+{
+  "case": "10-one-room-warmer",
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "mode": "text-to-image",
+  "requested": {
+    "resolution": "4K",
+    "aspect_ratio": "3:2"
+  },
+  "task_id": "d60c5ad6e5060128b4bdfdce05c409ee",
+  "seconds": 43.8,
+  "prompt_file": "reference-prompt.txt",
+  "prompt_sha256": "6091ec64b4b4f9e91a978eb8ec2a834c586f5ccb50b13e292c1817c467cc20ae",
+  "prompt_chars": 2288,
+  "reference_files": [],
+  "output_file": "reference-1.png",
+  "output_bytes": 12443605,
+  "generated_at": "2026-09-10"
+}

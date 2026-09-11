@@ -1,0 +1,19 @@
+{
+  "case": "20-isometric-dungeon-key-art",
+  "provider": "openrouter",
+  "model": "openai/gpt-image-2.5-sunburst",
+  "requested": {
+    "aspect_ratio": "4:3",
+    "quality": "xhigh",
+    "n": 1
+  },
+  "quality": "xhigh",
+  "image_tokens": 2459,
+  "cost_usd": 0.07461,
+  "seconds": 57,
+  "prompt_sha256": "a6ee77a8d80fd1fbd33eca55c1133739ba12b1bff3a1cc24c0219c6d29e8f07f",
+  "prompt_chars": 757,
+  "output_file": "or-sunburst.png",
+  "output_bytes": 2901727,
+  "generated_at": "2026-09-11"
+}

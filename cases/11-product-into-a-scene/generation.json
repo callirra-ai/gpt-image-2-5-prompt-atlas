@@ -1,0 +1,21 @@
+{
+  "case": "11-product-into-a-scene",
+  "model": "gpt-image-2-5-sunburst-image-to-image",
+  "mode": "image-to-image",
+  "requested": {
+    "resolution": "4K",
+    "aspect_ratio": "3:2"
+  },
+  "task_id": "4eac1f586d0beb971ac9e56a7af60c98",
+  "seconds": 37.5,
+  "prompt_file": "prompt.txt",
+  "prompt_sha256": "3333679575fd451b21c78063ccc77c68c4b76480a597895b78ef841fdfbadb7a",
+  "prompt_chars": 2960,
+  "reference_files": [
+    "reference-1.jpg",
+    "reference-2.jpg"
+  ],
+  "output_file": "output.png",
+  "output_bytes": 10114700,
+  "generated_at": "2026-09-10"
+}

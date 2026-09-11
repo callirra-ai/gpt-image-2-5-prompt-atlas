@@ -1,0 +1,18 @@
+{
+  "case": "14-1936-travel-poster",
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "mode": "text-to-image",
+  "requested": {
+    "resolution": "2K",
+    "aspect_ratio": "2:3"
+  },
+  "task_id": "6620878601f32f8488d933ef57221fc4",
+  "seconds": 33.7,
+  "prompt_file": "prompt.txt",
+  "prompt_sha256": "8f23e3a6bc6df82ffd52f2595a236c7f24e53dbed238de99abf1b4daaecb5a6e",
+  "prompt_chars": 2929,
+  "reference_files": [],
+  "output_file": "output.png",
+  "output_bytes": 6451346,
+  "generated_at": "2026-09-10"
+}

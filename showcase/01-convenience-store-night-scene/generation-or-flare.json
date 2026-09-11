@@ -1,0 +1,19 @@
+{
+  "case": "01-convenience-store-night-scene",
+  "provider": "openrouter",
+  "model": "openai/gpt-image-2.5-flare",
+  "requested": {
+    "aspect_ratio": "3:2",
+    "quality": "xhigh",
+    "n": 1
+  },
+  "quality": "xhigh",
+  "image_tokens": 2459,
+  "cost_usd": 0.074715,
+  "seconds": 43,
+  "prompt_sha256": "2c8cef19701893d7d1b0e7a29b6d02a82d14cf4290c6595248a06d1674394c22",
+  "prompt_chars": 1030,
+  "output_file": "or-flare.png",
+  "output_bytes": 2720757,
+  "generated_at": "2026-09-10"
+}

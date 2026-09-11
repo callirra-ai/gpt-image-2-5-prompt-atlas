@@ -1,0 +1,19 @@
+{
+  "case": "08-live-streaming-screenshot",
+  "provider": "openrouter",
+  "model": "openai/gpt-image-2.5-sunburst",
+  "requested": {
+    "aspect_ratio": "9:16",
+    "quality": "xhigh",
+    "n": 1
+  },
+  "quality": "xhigh",
+  "image_tokens": 2459,
+  "cost_usd": 0.07387,
+  "seconds": 47,
+  "prompt_sha256": "d9966fb667ccc759c49a39a3f19f9161ba20a96e9f4b201c04e8c7789e8516ea",
+  "prompt_chars": 74,
+  "output_file": "or-sunburst.png",
+  "output_bytes": 1753540,
+  "generated_at": "2026-09-11"
+}

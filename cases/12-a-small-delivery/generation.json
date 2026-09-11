@@ -1,0 +1,18 @@
+{
+  "case": "12-a-small-delivery",
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "mode": "text-to-image",
+  "requested": {
+    "resolution": "4K",
+    "aspect_ratio": "3:2"
+  },
+  "task_id": "ef22094c74c3816653a87f0429c86363",
+  "seconds": 52.4,
+  "prompt_file": "prompt.txt",
+  "prompt_sha256": "6e1b65cf68b9b3907b50e57619b8c53d1fc28b9673b36d14b765d0281ee3ed42",
+  "prompt_chars": 3289,
+  "reference_files": [],
+  "output_file": "output.png",
+  "output_bytes": 15979035,
+  "generated_at": "2026-09-10"
+}

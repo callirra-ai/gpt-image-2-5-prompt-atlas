@@ -1,0 +1,15 @@
+{
+  "case": "04-miniature-crew-on-a-lens",
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "requested": {
+    "resolution": "4K",
+    "aspect_ratio": "3:2"
+  },
+  "task_id": "9315e410854faa455139892f67206a0c",
+  "seconds": 40.3,
+  "prompt_sha256": "5e2347883d4b1a78b9299b5d88fe5522eb368c5c494d5982ae33a51c17f5de62",
+  "prompt_chars": 2655,
+  "output_file": "output.png",
+  "output_bytes": 10371217,
+  "generated_at": "2026-09-10"
+}

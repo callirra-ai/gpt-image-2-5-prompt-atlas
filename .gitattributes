@@ -1,0 +1,19 @@
+# Normalize line endings so the repository stays clean across platforms.
+* text=auto eol=lf
+
+# Binary assets must never be touched.
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.webp binary
+*.gif binary
+
+# Keep prompt text exactly as generated — no line-ending rewriting.
+prompt.txt text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
+
+# GitHub language detection: this repository is prose and images.
+*.md linguist-documentation
+assets/** linguist-documentation

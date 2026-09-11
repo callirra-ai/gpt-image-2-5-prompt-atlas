@@ -1,0 +1,33 @@
+A vertical editorial concert poster, 2:3, printed artwork seen flat and straight on — not a photograph of a
+poster on a wall.
+
+COMPOSITION
+Deep indigo ground with a subtle ink-darkening toward the outer edges. A single narrow shaft of warm gold
+stage light enters from the upper left and falls through the centre of the sheet, and the illuminated volume
+of that beam resolves into the abstract silhouette of a saxophone: bell low right, neck rising left, keys
+suggested by a row of small dark interruptions along the beam's right edge. The silhouette is built only from
+light and its absence — no outline, no drawn instrument. The headline sits above the beam, set large; the
+supporting lines sit below it in a compact block with clear air around them; the date and venue occupy their
+own zone at the bottom margin. The beam never crosses any letterform.
+
+TEXT — render exactly these four strings, each appearing once
+"AFTER HOURS"
+"JAZZ WEEKENDER"
+"18–20 SEPTEMBER"
+"RIVERSIDE HALL"
+Hierarchy: "AFTER HOURS" is the largest, set in a high-contrast condensed serif, tracked tight, on two lines
+if needed. "JAZZ WEEKENDER" is roughly one third that height in a neutral uppercase sans with wide letter
+spacing. "18–20 SEPTEMBER" and "RIVERSIDE HALL" are the smallest, set on one shared left-aligned column in the
+bottom margin, separated by a thin rule. All type sits on one left axis. No other text anywhere.
+
+PAPER AND FINISH
+Heavy uncoated poster stock with visible fibre grain and a faint deckled suggestion along the edges; ink sits
+slightly into the paper rather than on top of it. The gold light is printed ink luminance, not a glow effect:
+flat in the deep areas, softly graduated only where the beam passes.
+
+CONSTRAINTS
+No QR code, no barcode, no sponsor logos, no decorative microtext, no fictional support acts, no ticket
+prices, no "sold out" flashes. Do not paraphrase, abbreviate, re-case or hyphenate the four strings. Do not
+rotate, outline, shadow or gradient-fill the type. Do not add a saxophone photograph, a player, a crowd or a
+venue illustration. Keep the poster plane flat: no frame, no perspective, no wall shadow, no mockup, no tape,
+no torn edges beyond a faint deckle. No watermark, no signature.

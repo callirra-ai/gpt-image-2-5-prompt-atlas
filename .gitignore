@@ -1,0 +1,13 @@
+# full-resolution masters — kept locally, not published (see docs/how-to-use.md)
+cases/*/output.png
+cases/*/output.jpg
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# local preview harness (not part of the deliverable)
+index.html

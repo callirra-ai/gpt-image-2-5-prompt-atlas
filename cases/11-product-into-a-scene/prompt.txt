@@ -1,0 +1,43 @@
+Image 1: the product — the sole authority for the dripper's form, its proportions, its cream glaze, the throwing
+line, the interior ribs, the drain hole, the unglazed foot and the shape of the side handle. It supplies no
+setting, no camera and no lighting.
+Image 2: the scene — the sole authority for the space, the counter, the camera position, the scale of everything
+in frame and the direction and quality of every light. It supplies no product.
+
+TASK
+Place the dripper from Image 1 onto the clear strip of counter along the front edge of Image 2, standing upright
+on its foot at the left third of the frame, and follow the scene's own light exactly.
+
+PRESERVE EXACTLY
+- The dripper's geometry: cone angle, rim diameter, base ring, handle size and its angle, the wall thickness at
+  the rim, and the interior ribs and drain hole.
+- The dripper's material: cream glaze with the same gloss level, the same visible throwing line, the same
+  slightly uneven rim, the same unglazed clay foot.
+- The scene: the oak worktop with its grain, knife marks and water ring, the tiled splashback, the wall above
+  it, the enamel kettle, the folded linen cloth, the bowl of beans and their positions.
+- The camera: identical position, height, angle and framing. The result must align with Image 2 edge to edge.
+- The empty strip of counter along the front edge stays otherwise empty.
+
+MATCH NATURALLY
+- Light direction: the window is off-frame to the left, so the dripper is lit from the left. Its lit side is on
+  the left, its shadow falls to the right, and its right side falls into the same gentle gradient as the
+  splashback behind it.
+- Colour temperature: warm in the highlight, cool in the shadow, matching the rest of the scene. Do not add a
+  warm or cool cast of its own.
+- Contact shadow: one soft-edged shadow beneath the base, short and to the right of the object, denser where the
+  foot ring meets the counter and fading outward.
+- Reflection: a faint, low-contrast reflection of the base in the oiled oak immediately beneath it, the same
+  intensity as the reflection the kettle already casts.
+- Scale: the dripper is roughly the height of the enamel kettle's body and stands on the same plane, its base
+  resting on the counter surface at the same depth as the kettle's base. It must not float or sink.
+- Grain and sharpness: identical to the rest of the frame at the same depth.
+
+DO NOT
+- Do not redesign, restyle, recolour or reshape the dripper, and do not change its glaze or its handle.
+- Do not change the counter, the splashback, the existing three objects, the camera, the crop or the light
+  direction.
+- Do not add coffee, a filter, a mug, beans, a spoon, steam, a hand or a second product.
+- Do not paste the object flat: no outline, no cut-out edge, no drop shadow of even density, no missing contact
+  shadow, no flat colour fill.
+- Do not apply a shadow that disagrees with the light coming from the left.
+- No text, no logo, no watermark.

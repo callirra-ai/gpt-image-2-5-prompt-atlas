@@ -1,0 +1,14 @@
+{
+  "kind": "verbatim",
+  "title": "Apple Park Keynote Crowd Shot",
+  "category": "Photography & Photorealism",
+  "source": "https://cyberbara.com/gpt-image-prompt-library",
+  "reference_image": "https://raw.githubusercontent.com/ZeroLu/awesome-gpt-image/main/assets/opennana/apple-park-tim-cook-keynote.jpg",
+  "slides": 1,
+  "model": "flare",
+  "aspect": "3:2",
+  "resolution": "4K",
+  "words": 23,
+  "placeholder_filled": null,
+  "note": "Prompt reproduced verbatim from the reference library. The generated frame is ours."
+}

@@ -1,0 +1,19 @@
+{
+  "case": "03-rice-grain-micro-typography",
+  "provider": "openrouter",
+  "model": "openai/gpt-image-2.5-sunburst",
+  "requested": {
+    "aspect_ratio": "1:1",
+    "quality": "xhigh",
+    "n": 1
+  },
+  "quality": "xhigh",
+  "image_tokens": 3122,
+  "cost_usd": 0.093805,
+  "seconds": 78,
+  "prompt_sha256": "62dd5cac2498d75ba7c6f98d80aa851e7c68ac062f953024fc01a77e4360cbd5",
+  "prompt_chars": 91,
+  "output_file": "or-sunburst.png",
+  "output_bytes": 1405447,
+  "generated_at": "2026-09-10"
+}

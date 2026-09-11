@@ -1,0 +1,23 @@
+# License
+
+## Prompts and documentation — CC BY 4.0
+
+Applies to `cases/**/prompt.txt`, `cases/**/README.md`, `docs/**`, and the text of this repository's `README.md`.
+
+You may use, share and adapt this material **including commercially**, provided you credit this atlas and indicate whether changes were made. Suggested attribution:
+
+> Prompt from [GPT Image 2.5 Prompt Atlas](https://github.com/) — CC BY 4.0
+
+Full text: https://creativecommons.org/licenses/by/4.0/
+
+## Images — CC BY 4.0
+
+Rendered frames in `preview.jpg` and `full.jpg` are released under the same CC BY 4.0 terms, with the same attribution requirement, unless a case states otherwise.
+
+## The prompts describe generative output, not a warranty
+
+These prompts are records of what produced the published frames with the model and settings printed on each case. Generative output is not deterministic: re-running a prompt may produce a different image. A case documents what happened, not what will always happen.
+
+## Trademarks
+
+OpenAI, ChatGPT, GPT Image, Flare and Sunburst are trademarks of their respective owners. This repository is an independent community resource and is **not affiliated with, endorsed by, or sponsored by OpenAI**.

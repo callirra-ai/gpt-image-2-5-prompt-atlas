@@ -1,0 +1,15 @@
+{
+  "case": "06-anamorphic-night-crossing",
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "requested": {
+    "resolution": "4K",
+    "aspect_ratio": "21:9"
+  },
+  "task_id": "e99e3937cda2be646ce910564d564529",
+  "seconds": 38.7,
+  "prompt_sha256": "c58e806266d09f410c2568cb79f067477ea338a6a5603773bb81e3bd477ab8ac",
+  "prompt_chars": 2704,
+  "output_file": "output.png",
+  "output_bytes": 9776258,
+  "generated_at": "2026-09-10"
+}

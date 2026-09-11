@@ -1,0 +1,16 @@
+{
+  "kind": "original",
+  "title": "Direct Flash Night Portrait",
+  "category": "Photography",
+  "model": "flare",
+  "aspect": "3:4",
+  "resolution": "4K",
+  "comparison": true,
+  "why": "Light only — the hardest test of hard-flash rolloff.",
+  "words": 117,
+  "adaptation": {
+    "was": "a woman in a black slip dress leaning back against a shuttered shopfront at 1 AM",
+    "now": "a woman in a black leather jacket leaning back against a shuttered shopfront at 1 AM",
+    "reason": "OpenAI's safety system rejected the original via OpenRouter (safety_violations=[sexual])."
+  }
+}

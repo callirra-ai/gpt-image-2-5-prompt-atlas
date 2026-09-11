@@ -1,0 +1,19 @@
+{
+  "case": "05-90s-point-and-shoot",
+  "provider": "openrouter",
+  "model": "openai/gpt-image-2.5-flare",
+  "requested": {
+    "aspect_ratio": "3:2",
+    "quality": "xhigh",
+    "n": 1
+  },
+  "quality": "xhigh",
+  "image_tokens": 2459,
+  "cost_usd": 0.073845,
+  "seconds": 26,
+  "prompt_sha256": "b16c2f669428fabef4b0c405b23fc2918fc7646d759edf81ac670c52afbd22c0",
+  "prompt_chars": 36,
+  "output_file": "or-flare.png",
+  "output_bytes": 2062448,
+  "generated_at": "2026-09-11"
+}

@@ -1,0 +1,18 @@
+{
+  "case": "21-mobile-onboarding-flow",
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "mode": "text-to-image",
+  "requested": {
+    "resolution": "4K",
+    "aspect_ratio": "9:16"
+  },
+  "task_id": "3d52c987f7e8eadb8441ebb511847f17",
+  "seconds": 33.5,
+  "prompt_file": "prompt.txt",
+  "prompt_sha256": "6b95c63be8251cd13bf7033a584beee70ca92ce6c1c07787f572c85bc109bf02",
+  "prompt_chars": 3785,
+  "reference_files": [],
+  "output_file": "output.png",
+  "output_bytes": 4352912,
+  "generated_at": "2026-09-10"
+}

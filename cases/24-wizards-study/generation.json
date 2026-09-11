@@ -1,0 +1,18 @@
+{
+  "case": "24-wizards-study",
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "mode": "text-to-image",
+  "requested": {
+    "resolution": "4K",
+    "aspect_ratio": "3:2"
+  },
+  "task_id": "b72eb1f61a7f560b1901c1f568f0c8ea",
+  "seconds": 51.3,
+  "prompt_file": "prompt.txt",
+  "prompt_sha256": "3aad7e46197dceac406d031856ac315862a2363985256c1e32c3d63e2b2cddce",
+  "prompt_chars": 5010,
+  "reference_files": [],
+  "output_file": "output.png",
+  "output_bytes": 12746770,
+  "generated_at": "2026-09-10"
+}

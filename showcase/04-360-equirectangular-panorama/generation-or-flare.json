@@ -1,0 +1,19 @@
+{
+  "case": "04-360-equirectangular-panorama",
+  "provider": "openrouter",
+  "model": "openai/gpt-image-2.5-flare",
+  "requested": {
+    "aspect_ratio": "21:9",
+    "quality": "xhigh",
+    "n": 1
+  },
+  "quality": "xhigh",
+  "image_tokens": 2459,
+  "cost_usd": 0.073915,
+  "seconds": 26,
+  "prompt_sha256": "dfd87d5b74280f0e452d968dbe0e7715ba0e3ca7f58fbcbbd6ff6d3d3d0522a7",
+  "prompt_chars": 106,
+  "output_file": "or-flare.png",
+  "output_bytes": 2517989,
+  "generated_at": "2026-09-11"
+}

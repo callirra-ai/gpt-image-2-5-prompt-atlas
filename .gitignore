@@ -10,4 +10,4 @@ desktop.ini
 .idea/
 
 # local preview harness (not part of the deliverable)
-index.html
+/index.html         # root-level local preview harness only (the Pages site in docs/ is tracked)

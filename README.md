@@ -22,6 +22,8 @@
 
 <sub>Fifty deep links, one per entry. Each one fills the form; none of them submits it.</sub>
 
+<sub>Or browse all fifty on one page: **[the gallery site &rarr;](https://callirra-ai.github.io/gpt-image-2-5-prompt-atlas/)** — searchable, every frame, full prompt behind a click.</sub>
+
 </div>
 
 ---
